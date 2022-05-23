@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+![Gato Ninja](./logo-400.png)
+## Nós Somos a Gato Ninja
 
-You can use the [editor on GitHub](https://github.com/GatoNinja/GatoNinja/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Você está pensando em criar um site, um sistema, um aplicativo ou um software para Windows?
+* Você ou sua empresa estão precisando de suporte tecnológico para aplicativos, sites, servidores, bancos de dados?
+* Você tem uma ideia que gostaria de tirar do papel?
 
-### Markdown
+### Não precisa mais procurar!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A Gato Ninja surgiu para resolver questões como essa, em um tempo **ninja**!
 
-```markdown
-Syntax highlighted code block
+### Entre nossos clientes
 
-# Header 1
-## Header 2
-### Header 3
+* **Empresas de T.I.**
+* **Empresas de Educação**
+* **Empresas de Saúde**
+* **Empresas de Hotelaria**
 
-- Bulleted
-- List
+### Faça um orçamento grátis!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GatoNinja/GatoNinja/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Whatsapp (21) 96558-8566
+* E-mail [ninja@gatoninja.com.br](mailto:ninja@gatoninja.com.br)
